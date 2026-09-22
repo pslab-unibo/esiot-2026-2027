@@ -16,6 +16,7 @@ v. 1.1.0-20260917
 | 8    | Razzino, Casadei, Reggiani | 20260923 | |
 | 9    | Rocca, Solaroli, Bandini | 20260923 | | 
 | 10   | Cosuta, Montesi, Magyar | 20260923 | | 
+| 11   | Castronovo, Falsone, Calandrini | 20260923 | |
 
 
 

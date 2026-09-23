@@ -21,7 +21,7 @@ v. 1.1.0-20260917
 | 13   | Graziotin, Marcatelli | 20260923 | | 
 | 14   | Liu, Hong | 20260923 | | |
 | 15   | Gianelli, Nanni, Emiliano | 20260923 || 
-| 16   | Bianchini, Potenza | 20260923 ||
+| 16   | Bianchini, Potenza, Emuwahen | 20260923 ||
 | 17   | Di Domenico, Montefiori, Antonellini, Giorgetti | 20260923 ||
 | 18   | Dapporto, Ragazzini, Balas | 20260923 ||
 

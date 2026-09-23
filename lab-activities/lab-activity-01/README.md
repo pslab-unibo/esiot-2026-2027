@@ -12,5 +12,7 @@ v. 1.0.0-20260922
     - ref: Lab Notes - MCU Programming Basics
   - About the super loop - a look to [Arduino core implementation](https://github.com/arduino/ArduinoCore-avr/blob/master/cores/arduino/main.cpp)
   - Lab Notes - Basic Electronics
-
+- **Exercise:** 
+  - set up a system with three leds, animated so that: only one led is turned on at time, and they are turned on and off in sequence, in one direction and back.
+  
 

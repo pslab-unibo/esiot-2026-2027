@@ -24,6 +24,8 @@ v. 1.1.0-20260917
 | 16   | Bianchini, Potenza, Emuwahen | 20260923 ||
 | 17   | Di Domenico, Montefiori, Antonellini, Giorgetti | 20260923 ||
 | 18   | Dapporto, Ragazzini, Balas | 20260923 ||
+| 19   | Mondardini, Mazzoni, Olivieri | 20260923 || 
+
 
 
 

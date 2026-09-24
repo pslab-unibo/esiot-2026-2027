@@ -12,7 +12,7 @@ v. 1.1.0-20260917
 | 4    | Zanoni, Zani, Giovannini | 20260923 | | 
 | 5    | Colinucci, Cecchini, Poli | 20260923 | |
 | 6    | Magalotti, Ricci, Tomè | 20260923 | |
-| 7    | Cai, Han | 20260923 | |
+| 7    | Cai, Han, Mercuri | 20260923 | |
 | 8    | Razzino, Casadei, Reggiani | 20260923 | |
 | 9    | Rocca, Solaroli, Bandini | 20260923 | | 
 | 10   | Cosuta, Montesi, Magyar | 20260923 | | 
@@ -25,7 +25,7 @@ v. 1.1.0-20260917
 | 17   | Di Domenico, Montefiori, Antonellini, Giorgetti | 20260923 ||
 | 18   | Dapporto, Ragazzini, Balas | 20260923 ||
 | 19   | Mondardini, Mazzoni, Olivieri | 20260923 || 
-
+| 
 
 
 

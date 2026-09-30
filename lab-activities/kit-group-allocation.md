@@ -26,6 +26,8 @@ v. 1.1.0-20260917
 | 18   | Dapporto, Ragazzini, Balas | 20260923 ||
 | 19   | Mondardini, Mazzoni, Olivieri | 20260923 || 
 | 20   | Marsella, Pollini | 20260930 ||
+| 21   | Baldazzi, Golinucci | 20260930 || 
+
 
 
 

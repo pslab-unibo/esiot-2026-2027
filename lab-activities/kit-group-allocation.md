@@ -25,7 +25,7 @@ v. 1.1.0-20260917
 | 17   | Di Domenico, Montefiori, Antonellini, Giorgetti | 20260923 ||
 | 18   | Dapporto, Ragazzini, Balas | 20260923 ||
 | 19   | Mondardini, Mazzoni, Olivieri | 20260923 || 
-| 20   | Marsella, Polloni | 20260930 ||
+| 20   | Marsella, Pollini | 20260930 ||
 
 
 

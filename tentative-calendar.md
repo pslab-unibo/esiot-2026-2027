@@ -105,7 +105,7 @@ Thu 26 - Aula
 Wed 2 - Lab
 - Lab Activity #9
 
-Thu 2 - Aula
+Thu 3 - Aula
 - module-3.3
 
 **== Week #13 - PART 03**

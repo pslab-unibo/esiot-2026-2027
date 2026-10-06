@@ -1,0 +1,30 @@
+// this should be a pin supporting PWM
+#define LED_PIN 9
+
+int brightness;
+int fadeAmount;
+int currIntensity;
+int currentSpeed;
+int delayStep;
+
+void setup(){
+  currIntensity = 0;
+  fadeAmount = 5;
+  pinMode(LED_PIN, OUTPUT);     
+  delayStep = 1;
+  currentSpeed = 0;
+}
+
+void loop(){
+  int newSpeed = analogRead(A0);
+  if (newSpeed != currentSpeed){
+    currentSpeed = newSpeed;
+    delayStep = 1 + (int)(((float)(1023 - currentSpeed))/64);
+  }
+  analogWrite(LED_PIN, currIntensity);   
+  currIntensity = currIntensity + fadeAmount;
+  if (currIntensity == 0 || currIntensity == 255) {
+    fadeAmount = -fadeAmount ; 
+  }     
+  delay(delayStep);                               
+}

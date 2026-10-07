@@ -33,12 +33,18 @@ Power Management
 - Lightweight sleeping example 
   - [idle sleep + timer](./lightsleep_with_timer/lightsleep_with_timer.ino)
 
+**Assignment #01 Announcement**
+
 **About structuring superloop programs with interrupts**
 
 State-based organization of programs based on superloop + interrupts + timings
 - [superloop_interrupt_example](./superloop_interrupt_example/superloop_interrupt_example.ino)
 
-**Assignment #01 Announcement**
- 
+**About dealing with the small memory**
+
+- Use the `F(<string>)` string wrapper macro to allocate string on the 1k EEPROM 
+
+- [Full documentation about memory management](https://docs.arduino.cc/learn/programming/memory-guide/)
+  - including functions to check the free SRAM
 
 

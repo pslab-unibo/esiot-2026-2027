@@ -29,6 +29,8 @@ v. 1.1.0-20260917
 | 21   | Baldazzi, Golinucci | 20260930 || 
 | 22   | Potenza, Bianchini,  Osaretin Emuwahen  | 20260930 ||
 | 23   | El Maliki | 20261007 || 
+| 24   | Bernabini, Targhini, Stepura | 20261008 ||
+
 
 
 

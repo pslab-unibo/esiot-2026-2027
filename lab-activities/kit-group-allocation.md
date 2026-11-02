@@ -31,7 +31,7 @@ v. 1.1.0-20260917
 | 23   | El Maliki | 20261007 || 
 | 24   | Bernabini, Targhini, Stepura | 20261008 ||
 | 25   | Pasini | 20261009 ||
-
+| 26   | Zhaksylyk, Anees | 20261102 ||  
 
 
 

@@ -4,6 +4,28 @@
 
 v. 1.0.0-20261102
 
+**Synchronous FSM Architecture - First examples & explorations**
+
+Examples about first implementations of synchronous FSMs.
+
+- blinkling sync
+  - `blinking_fsm_synch`
+
+- button led sync improvable 
+  - `button_led_fsm_synch_first`
+
+- button led sync good
+  - `button_led_fsm_synch_improved`
+
+**An IDE for complex projects**
+
+- [PlatformIO IDE (+ Visual Studio Code)](https://platformio.org)
+- Installation 
+  - [instructions](https://platformio.org/install/ide?install=vscode)
+  - [first install VS Code](https://code.visualstudio.com/)
+- Install PlatformIO Extension
+  - [setup](https://docs.platformio.org/en/latest//integration/ide/vscode.html#quick-start)
+
 **Arduino/PC Communication via Serial Port**
 
 **[Lab Notes] Arduino/PC Serial Communication**
@@ -26,8 +48,9 @@ v. 1.0.0-20261102
         `java -cp bin:lib/jssc-2.9.6.jar esiot.serial.SimpleSerialMonitor /dev/tty.usbmodem1412101`
                                                                             
   - Remote Blinking
-    - Arduino side: 
-      - running `serial/arduino/remote_blinking/remote_led_withmsg.ino`
+    - Arduino side - 2 versions:
+      - raw: `serial/arduino/remote_blinking/remote_led.ino` 
+      - with a MsgService: `serial/arduino/remote_blinking/remote_led_withmsg.ino`
     - Java side (being in `serial/java`):   
       - `java -cp bin:lib/jssc-2.9.6.jar esiot.serial.TestRemoteBlinking <serial port>`  
   - Test Ping Pong
@@ -36,27 +59,6 @@ v. 1.0.0-20261102
     - Java side (being in `serial/java`):
       - `java -cp bin:lib/jssc-2.9.6.jar esiot.serial.TestPingPong  <serial port>`
 
-**Synchronous FSM Architecture - First examples & explorations**
-
-Examples about first implementations of synchronous FSMs.
-
-- blinkling sync
-  - `blinking_fsm_synch`
-
-- button led sync improvable 
-  - `button_led_fsm_synch_first`
-
-- button led sync good
-  - `button_led_fsm_synch_improved`
-
-**An IDE for complex projects**
-
-- [PlatformIO IDE (+ Visual Studio Code)](https://platformio.org)
-- Installation 
-  - [instructions](https://platformio.org/install/ide?install=vscode)
-  - [first install VS Code](https://code.visualstudio.com/)
-- Install PlatformIO Extension
-  - [setup](https://docs.platformio.org/en/latest//integration/ide/vscode.html#quick-start)
 
 **Case study in Lab** 
 

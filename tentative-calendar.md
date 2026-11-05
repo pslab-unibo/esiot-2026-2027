@@ -72,14 +72,16 @@ Wed 4 - Lab
 
 Thu 5 - Aula
 - module-2.3
+- **Assignment 02**
 
 **== Week #9 - PART 02**
 
 Wed 11 - Lab
 - Lab Activity #07
-- **Assignment 02**
+- *work-on-assignment 02*
 
 Thu 12 - Aula
+- module-2.4
 - *work-on-assignment 02*
 
 **== Week #10 - PART 03**

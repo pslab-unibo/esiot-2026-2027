@@ -40,6 +40,9 @@ If an object is detected at distance less than D1, the system enters in *alarm* 
 - In *alarm* state, **ALARM** led start blinking at some frequency, and the **RADAR** position is controlled manually, by a human operator through the **POT** potentiometer.
 - The system exists from the *alarm* state only when the operator presses the **RESET** button: in that case the **RADAR** position is reset, **ALARM** led turned off and the system starts working normally.
 
+When the system is working normally, by pressing **STOP** it returns in *idle*, i.e. everything is off and the MCU is in deep sleep.
+
+
 #### Behaviour: CSU Subsystem
 
 The Console Subsystem (CSU) shows the current state of the RSU (idle, working, pre-alarm, alarm). It can have a GUI or being based on a CLI.
@@ -51,6 +54,7 @@ The CSU includes also proper input controls to activate, when needed, the remote
 - a **TAKE CONTROL** button, to start the remote controlling
 - input controls for controlling the **RADAR** position
 - a **RESET** button, to reset the system in *alarm* state
+- a **STOP** button, to stop the system (as described above)
 - a **RELEASE CONTROL** button, to release the control
 
 

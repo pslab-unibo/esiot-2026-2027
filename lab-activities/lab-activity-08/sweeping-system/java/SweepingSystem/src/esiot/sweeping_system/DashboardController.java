@@ -2,9 +2,6 @@ package esiot.sweeping_system;
 
 public class DashboardController  {
 
-	// static final String MSG_MAINTENANCE_DONE 	= "ok";
-	// static final String MSG_DISCHARGE 			= "di";
-	
 	SerialCommChannel channel;
 	DashboardView view;
 	LogView logger;
@@ -18,17 +15,7 @@ public class DashboardController  {
 		
 		System.out.println("Waiting Arduino for rebooting...");		
 		Thread.sleep(4000);
-		System.out.println("Ready.");		
-	
+		System.out.println("Ready.");			
 	}
 	
-	/*
-	public void notifyMaintenanceDone() {
-		  channel.sendMsg(MSG_MAINTENANCE_DONE);
-	}
-
-	public void notifyDischarge() {
-		  channel.sendMsg(MSG_DISCHARGE);
-	}*/
-
 }

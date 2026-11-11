@@ -75,58 +75,11 @@ class DashboardView extends JFrame implements ActionListener  {
 	public void registerController(DashboardController contr){
 		this.controller = contr;
 	}
-
-	/*
-	public void setContainerState(String msg){
-		SwingUtilities.invokeLater(() -> {
-			containerState.setText(msg); 
-		});
-	}
-
-	public void setWasteLevel(int perc){
-		SwingUtilities.invokeLater(() -> {
-			wasteLevelPercentage.setText("" + perc);
-		});
-	}
-
-	public void setCurrentTemperature(double temp){
-		SwingUtilities.invokeLater(() -> {
-			currentTemperature.setText("" + temp);
-		});
-	}
-
-	public void enableAvailable() {
-		SwingUtilities.invokeLater(() -> {
-			maintenanceDone.setEnabled(false);
-			dischargeContainer.setEnabled(false);
-		});
-	}
-	
-	public void enableMaintenance() {
-		SwingUtilities.invokeLater(() -> {
-			maintenanceDone.setEnabled(true);
-			dischargeContainer.setEnabled(false);
-		});
-	}
-
-	public void enableDischarge() {
-		SwingUtilities.invokeLater(() -> {
-			maintenanceDone.setEnabled(false);
-			dischargeContainer.setEnabled(true);
-		});
-	}
-	*/
 	
 	public void actionPerformed(ActionEvent ev){
 		  try {
 			  /*
-			  if (ev.getSource() == maintenanceDone){
-				  controller.notifyMaintenanceDone();
-				  maintenanceDone.setEnabled(false);
-			  } else if (ev.getSource() == dischargeContainer){
-				  controller.notifyDischarge();
-				  dischargeContainer.setEnabled(false);
-			  }
+			  if (ev.getSource() == ...){
 			  */ 
 		  } catch (Exception ex){
 			  ex.printStackTrace();

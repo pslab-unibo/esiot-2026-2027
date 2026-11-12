@@ -81,12 +81,12 @@ Wed 11 - Lab
 - *work-on-assignment 02*
 
 Thu 12 - Aula
-- module-2.4
 - *work-on-assignment 02*
 
 **== Week #10 - PART 03**
 
 Wed 18 - Lab
+- module-2.4
 - *work-on-assignment 02*
 
 Thu 19 - Aula
